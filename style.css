@@ -24,6 +24,7 @@ h1{
 #element{
     background:#dadada;
     height: fit-content;
+    width: fit-content;
     display: flex;
     margin-top: 0 auto;
     margin-left: 30%;
