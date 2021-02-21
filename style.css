@@ -1,0 +1,58 @@
+body {
+    background:white;
+    margin:0;
+    padding:0;
+}
+#content{
+    display: block;
+    margin-top: 30px;
+}
+#links{
+    margin-top: 30px;
+}
+.Project_link{
+    text-decoration:none;
+    color: black;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-left:10px;
+    margin-right: 10px;
+    font-size: 25px;
+}
+#element{
+    background:#dadada;
+    height: fit-content;
+    display: flex;
+    margin-top: 0 auto;
+    margin-left: 30%;
+    margin-right:30%;
+    border-radius: 50px;
+    border: 2px solid black;
+    justify-content:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#element:hover{
+    box-shadow: 2px 2px 10px black;
+}
+#title{
+    background:white ;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin-top: 2%;
+}
+#link:hover{
+    text-decoration: underline;
+    color:red;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+#header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
